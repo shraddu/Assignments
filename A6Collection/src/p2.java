@@ -1,9 +1,6 @@
 import java.util.HashSet;
-
 public class p2 {
-
-	public static void main(String [] args)
-	{	
+	public static void main(String [] args) {	
 	HashSet<Integer> myhashset= new HashSet<>();
 	myhashset.add(9);
 	myhashset.add(18);
